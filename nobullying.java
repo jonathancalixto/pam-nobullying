@@ -8,6 +8,7 @@ public class NoBullying {
 		System.out.println("passo 5 : saber o que esta acontecendo ");
 		System.out.println("passo 6 : Não julgar as pessoas ");
 		System.out.println("passo 7 : nao julgar pela aparencia ou comportamento ");
+		System.out.println("passo 8 : Abrir debates relacionado com o tema  ");
 		
 		
 	}
