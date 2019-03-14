@@ -4,6 +4,7 @@ public class NoBullying {
 		System.out.println("passo 1 : respeitar as Opiniões do individuo ");
 		System.out.println("passo 2 : observar o comportamendo das pessoa ao seu redor ");
 		System.out.println("passo 3 : Sempre  conversa com pessoas que aparenta ta triste ");
+		System.out.println("passo 4 : ajudar o proximo ");
 		
 		
 	}
