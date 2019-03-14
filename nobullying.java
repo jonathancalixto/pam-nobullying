@@ -6,6 +6,7 @@ public class NoBullying {
 		System.out.println("passo 3 : Sempre  conversa com pessoas que aparenta ta triste ");
 		System.out.println("passo 4 : ajudar o proximo ");
 		System.out.println("passo 5 : saber o que esta acontecendo ");
+		System.out.println("passo 6 : Não julgar as pessoas ");
 		
 		
 	}
